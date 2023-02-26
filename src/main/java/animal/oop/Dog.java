@@ -12,7 +12,7 @@ public class Dog implements Animal {
     }
 
     public String getVoice() {
-        return "gav";
+        return "Gav";
     }
 
     public Integer getVoiceDuration() {

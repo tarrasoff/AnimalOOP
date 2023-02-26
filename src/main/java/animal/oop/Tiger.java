@@ -8,7 +8,7 @@ public class Tiger implements Animal {
     }
 
     public String getVoice() {
-        return "rerere";
+        return "RRR";
     }
 
     public String getName() {

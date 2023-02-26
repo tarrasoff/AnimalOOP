@@ -8,7 +8,7 @@ public class Bear implements Animal {
     }
 
     public String getVoice() {
-        return "RRRRR";
+        return "RYK";
     }
 
     public Integer getVoiceDuration() {
